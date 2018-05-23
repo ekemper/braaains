@@ -1,6 +1,6 @@
 # braaains
 
-> A Vue.js project
+> A searchable knowledge base like a private stack overflow for your brains
 
 ## Build Setup
 
